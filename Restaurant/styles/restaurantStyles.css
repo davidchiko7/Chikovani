@@ -1,0 +1,44 @@
+/*
+Creator: David Chikovani
+Date created: January 24th
+Date last modified: January 24th
+*/
+header, footer {
+    background-color: #c6c9ca;
+    color: #24839c;
+    height: 153px;
+    text-align: center;
+    padding: 25px 7px 15px 7px;
+}
+header {
+	font-family: Comic Sans MS;
+}
+nav a:link {
+  color:white;
+}
+nav a:hover {
+    font-weight: bold;
+}
+nav a:visited {
+    color: violet; 
+}
+nav a:active  {
+    text-decoration: none; 
+}
+nav {
+    border-top: thin #5b7d87 solid;
+    border-bottom: thin #5b7d87 solid;
+    padding-top: 12px;
+    padding-bottom: 12px;
+	background-color: #b7dae7;
+}
+nav .btn {
+    background-color: #5b7d87;
+    color: #fef9ff; 
+	margin-right: 3px;
+}
+   .noscript #noJava{
+       display:block;
+       height:100%;
+       background-color:white; 
+   }
